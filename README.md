@@ -1,4 +1,3 @@
-# AIM410: Build, Train and Deploy ML Models using Amazon SageMaker
 
 ## Workshop Lab Guide
 
